@@ -1,2 +1,2 @@
-# island-travel-website
+# visit-national-trust-website
 This is my landing page project that showcases my knowledge of HTML, CSS and Flexbox. I am creating an information page to show some of the National Trust parks in the North West of England.
