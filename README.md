@@ -1,2 +1,2 @@
 # island-travel-website
-This is my website project that showcases my knowledge in HTML, CSS and Flexbox. I am creating a travel advert for my island in Animal Crossing: New Horizons.
+This is my landing page project that showcases my knowledge of HTML, CSS and Flexbox. I am creating an information page to show some of the National Trust parks in the North West of England.
