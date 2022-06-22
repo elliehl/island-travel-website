@@ -36,12 +36,14 @@ a {
 
 .left-links {
     font-weight: 700;
+    font-size: 20px;
 }
 
 .right-links {
     gap: 16px;
     display: flex;
     color: white;
+    font-size: 14px;
 }
 
 .main-sections {
@@ -83,6 +85,11 @@ a {
     font-weight: 600;
 }
 
+.intro-photo {
+    display: flex;
+    flex: 1;
+}
+
 .photo-container {
     display: flex;
     padding: 20px;
@@ -114,17 +121,51 @@ a {
 
 .sign-up {
     display: flex;
-    padding: 20px;
+    padding: 60px;
     flex: 1;
     align-items: center;
     justify-content: center;
+    color: white;
+}
+
+.sign-up-box {
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(19, 105, 89);
+    padding: 50px 75px;
+    gap: 100px;
+}
+
+.sign-up-left-text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+}
+
+.sign-up-top-text {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.sign-up-bottom-text {
+    font-size: 16px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
 }
 
 .sign-up-button {
     border-radius: 10px;
-    padding: 8px 16px;
+    padding: 8px 30px;
     background-color: transparent;
     border: 2px solid white;
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 .footer {
@@ -132,7 +173,7 @@ a {
     align-items: center;
     justify-content: center;
     background-color: lightseagreen;
-    padding: 8px;
+    padding: 24px;
     color: white;
     border-color: white;
     font-size: 12px;
