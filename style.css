@@ -120,7 +120,8 @@ h2 {
 
 .photos-row {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
 }
 
 .photo-1, .photo-2, .photo-3, .photo-4 {
