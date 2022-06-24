@@ -130,7 +130,7 @@ h2 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    text-overflow: none;
+    margin: auto 20px;
 }
 
 .quote-container {
@@ -198,6 +198,7 @@ h2 {
 p {
     margin: 0;
     padding: 0;
+    width: 200px;
 }
 
 .sign-up-button {
