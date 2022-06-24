@@ -93,7 +93,7 @@ a {
 .photo-container {
     display: flex;
     flex-direction: column;
-    padding: 20px;
+    padding: 30px;
     justify-content: center;
     background-color: white;
     gap: 16px;
@@ -133,11 +133,25 @@ h2 {
 
 .quote-container {
     display: flex;
+    flex-direction: column;
     background-color: lightblue;
-    padding: 20px;
+    padding: 30px 60px;
     justify-content: center;
     flex: 1;
     align-items: center;
+}
+
+.quote, .quotee-1 {
+    max-width: 800px;
+}
+
+.quote {
+    font-size: 36px;
+}
+
+.quotee-1 {
+    display: flex;
+    justify-content: flex-end;
 }
 
 .photo {
